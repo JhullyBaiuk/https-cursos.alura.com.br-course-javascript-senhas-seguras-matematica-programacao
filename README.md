@@ -1,1 +1,1 @@
-# https-cursos.alura.com.br-course-javascript-senhas-seguras-matematica-programacao
+#senhas-seguras-matematica-programacao
